@@ -5,3 +5,4 @@ versionCode=${versionCode}
 author=${authorList}
 description=Created using Jing Matrix's LSPosed framework version v1.10.2-7182, supports Android 8.1 to 16. ${requirement}.
 updateJson=${updateJson}
+banner=https://raw.githubusercontent.com/Liliya2727/LSPosedZ/refs/heads/master/Lsp.jpg
