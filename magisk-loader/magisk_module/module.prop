@@ -3,5 +3,5 @@ name=${api} - LSPosed
 version=${versionName} (${versionCode})
 versionCode=${versionCode}
 author=${authorList}
-description=Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16. ${requirement}.
+description=Created using Jing Matrix's LSPosed framework version v1.10.2-7182, supports Android 8.1 to 16. ${requirement}.
 updateJson=${updateJson}
